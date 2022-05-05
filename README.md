@@ -1,4 +1,4 @@
-- 👋 Hellho there,
+- 👋 Hello there,
 - 👀 I’m interested in Data Science, Machine Learning and Artificial intelligence with the main focus of applying these techniques in the industry.
 - 🌱 I’m currently developing my skills in python programming and already am halfway through Master's Degree in Process Control Engineering.
 - 💞️ My current job is in the oil industry, as a Control Room operator and my Master's project includes Digital Twin development,  and Fuzzy Logic Control applied to Level Control.
